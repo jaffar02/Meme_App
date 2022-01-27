@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">API app</string>
+    <string name="nextButton">Next</string>
+    <string name="shareButton">Share</string>
+    <string name="backBtn">Back</string>
+</resources>
